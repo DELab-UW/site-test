@@ -7,9 +7,19 @@ html {
     margin: 0; 
     max-width: 80%; 
     height: auto; 
-    position: absolute; /* Ustaw absolutne pozycjonowanie */
-    top: 6em; /* Wyrównaj maksymalnie do góry */
-    left: 1.8em; /* Wyrównaj maksymalnie do lewej */
+    position: relative; /* Zmień na relative, aby pozycjonowanie było elastyczne */
+    top: 0; /* Usuń ręczne pozycjonowanie */
+    left: 0; /* Usuń ręczne pozycjonowanie */
+    margin-left: 1.8em; /* Dostosuj marginesy w zależności od potrzeb */
+    margin-top: 6em; /* Dostosuj marginesy w zależności od potrzeb */
+}
+
+/* Dodatkowo możesz dodać media queries, aby dopasować rozmiar logo na mniejszych ekranach */
+@media screen and (max-width: 768px) {
+    .custom-header-image {
+        max-width: 60%; /* Zmniejsz rozmiar logo na mniejszych ekranach */
+        margin-top: 4em; /* Dostosuj margines, aby lepiej pasował */
+    }
 }
 
 /* wysokość nawigacji po lewej */
