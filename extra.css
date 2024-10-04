@@ -8,7 +8,7 @@ html {
     max-width: 80%; 
     height: auto; 
     position: absolute; /* Ustaw absolutne pozycjonowanie */
-    top: 4.5em; /* Wyrównaj maksymalnie do góry */
+    top: 6em; /* Wyrównaj maksymalnie do góry */
     left: 1.8em; /* Wyrównaj maksymalnie do lewej */
 }
 
