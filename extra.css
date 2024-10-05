@@ -9,7 +9,7 @@ html {
     max-width: 50%; 
     height: auto; 
     position: absolute;
-    top: 3.9em; /* Dopasuj wysokość od góry */
+    top: 3.7em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
 }
 
@@ -17,7 +17,7 @@ html {
 @media screen and (max-width: 768px) {
   .custom-header-image {
       max-width: 50%; /* Zmniejsz rozmiar logo na mniejszych ekranach */
-      top: 3.9em; /* Dopasuj marginesy */
+      top: 3.7em; /* Dopasuj marginesy */
       left: 1em; /* Dopasuj marginesy */
   }
 }
