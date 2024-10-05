@@ -12,7 +12,7 @@ h1 {
     max-width: 60%; 
     height: auto; 
     position: absolute;
-    top: 8em; /* Dopasuj wysokość od góry */
+    top: 10em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
 }
 
@@ -20,7 +20,7 @@ h1 {
 @media screen and (max-width: 768px) {
   .custom-header-image {
       max-width: 60%; /* Zmniejsz rozmiar logo na mniejszych ekranach */
-      top: 1em; /* Dopasuj marginesy */
+      top: 8em; /* Dopasuj marginesy */
       left: 1em; /* Dopasuj marginesy */
   }
 }
