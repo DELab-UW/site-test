@@ -6,18 +6,18 @@ html {
 .custom-header-image {
     display: block;
     margin: 0; 
-    max-width: 60%; 
+    max-width: 50%; 
     height: auto; 
     position: absolute;
-    top: 4.1em; /* Dopasuj wysokość od góry */
+    top: 3.9em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
 }
 
 /* Dodatkowo możesz dodać media queries, aby dopasować rozmiar logo na mniejszych ekranach */
 @media screen and (max-width: 768px) {
   .custom-header-image {
-      max-width: 60%; /* Zmniejsz rozmiar logo na mniejszych ekranach */
-      top: 1.5em; /* Dopasuj marginesy */
+      max-width: 50%; /* Zmniejsz rozmiar logo na mniejszych ekranach */
+      top: 3.9em; /* Dopasuj marginesy */
       left: 1em; /* Dopasuj marginesy */
   }
 }
