@@ -7,7 +7,7 @@ html {
     margin: 0; 
     max-width: 80%; 
     height: auto; 
-    position: absolute; /* Absolutne pozycjonowanie */
+    position: relative;
     top: 1.5em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
 }
