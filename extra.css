@@ -84,6 +84,7 @@ html {
   background-color: #3485c82d;
 }
 
-h1 {
+
+h1.custom-header-title {
   margin-top: 20px;
 }
