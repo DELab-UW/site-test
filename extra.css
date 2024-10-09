@@ -20,7 +20,7 @@ html {
   height: auto; 
   position: absolute;
   top: 3.7em; /* Dopasuj wysokość od góry */
-  left: 1.5em; /* Dopasuj szerokość od lewej */
+  left: 2em; /* Dopasuj szerokość od lewej */
 }
 
 .custom-jpg-image {
@@ -58,4 +58,9 @@ html {
   --md-primary-fg-color--dark:  #3485C8;
   --md-accent-fg-color:         #3485C8;
   --md-code-hl-color:           #3485C8;
+}
+
+[data-md-color-scheme="delab"] footer {
+  background-color: #3485C8;
+  color: white; /* Możesz zmienić kolor tekstu, aby był czytelny */
 }
