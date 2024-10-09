@@ -11,7 +11,6 @@ html {
     position: absolute;
     top: 3.7em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
-    margin-bottom: 20px;
 }
 
 .custom-icon-image {
@@ -83,4 +82,8 @@ html {
 .md-typeset .admonition-title,
 .md-typeset summary {
   background-color: #3485c82d;
+}
+
+h1 {
+  margin-top: 20px;
 }
