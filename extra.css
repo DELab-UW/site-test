@@ -11,6 +11,7 @@ html {
     position: absolute;
     top: 3.7em; /* Dopasuj wysokość od góry */
     left: 1.5em; /* Dopasuj szerokość od lewej */
+    margin-bottom: 20px;
 }
 
 .custom-icon-image {
@@ -63,4 +64,23 @@ html {
 [data-md-color-scheme="delab"] footer {
   background-color: #3485C8;
   color: white; /* Możesz zmienić kolor tekstu, aby był czytelny */
+}
+
+[data-md-color-scheme="delab"] h1,
+[data-md-color-scheme="delab"] h2,
+[data-md-color-scheme="delab"] h3,
+[data-md-color-scheme="delab"] h4,
+[data-md-color-scheme="delab"] h5,
+[data-md-color-scheme="delab"] h6 {
+  color: rgb(42, 42, 42); /* Zmienia kolor nagłówków na czarny */
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-color: #3485C8;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background-color: #3485c82d;
 }
