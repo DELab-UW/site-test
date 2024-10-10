@@ -90,7 +90,7 @@ h1.custom-header-title {
 }
 
 :root {
-  --md-admonition-icon--film: 'simple/youtube'
+  --md-admonition-icon--film: url('https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-app-white-icon.png')
 }
 .md-typeset .admonition.film,
 .md-typeset details.film {
