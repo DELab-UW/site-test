@@ -90,7 +90,7 @@ h1.custom-header-title {
 }
 
 :root {
-  --md-admonition-icon--film: simple/youtube
+  --md-admonition-icon--film: 'simple/youtube'
 }
 .md-typeset .admonition.film,
 .md-typeset details.film {
