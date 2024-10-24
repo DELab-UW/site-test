@@ -5,19 +5,11 @@
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/badanie/</loc>
-         <lastmod>2024-10-24</lastmod>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/cel/</loc>
+         <loc>https://mydomain.org/mysite/automatyzacja/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/cytowanie/</loc>
-         <lastmod>2024-10-24</lastmod>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/dane/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
@@ -33,10 +25,6 @@
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/gen_ai/</loc>
-         <lastmod>2024-10-24</lastmod>
-    </url>
-    <url>
          <loc>https://mydomain.org/mysite/kompetencje/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
@@ -45,7 +33,7 @@
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/narzedzia/</loc>
+         <loc>https://mydomain.org/mysite/metodologia/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
@@ -54,6 +42,10 @@
     </url>
     <url>
          <loc>https://mydomain.org/mysite/raport/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/referencje/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
@@ -69,7 +61,15 @@
          <lastmod>2024-10-24</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/wytyczne/</loc>
+         <loc>https://mydomain.org/mysite/uwagi/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/wnioski/</loc>
+         <lastmod>2024-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/wstep/</loc>
          <lastmod>2024-10-24</lastmod>
     </url>
 </urlset>
