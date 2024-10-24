@@ -1,4 +1,4 @@
-site_name: Motywacje szkoleniowe w erze cyfrowej - Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy
+site_name: Motywacje szkoleniowe w erze cyfrowej
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -33,13 +33,13 @@ extra_css:
   - extra.css
 
 nav:
-  - O raporcie: "index.md"
-  - Dobre praktyki: "cel.md"
-  - Badanie DELab UW: "badanie.md"
-  - Generatywna AI : "gen_ai.md"
-  - Narzędzia genAI: "narzedzia.md"
-  - Wytyczne UW dla genAI: "wytyczne.md"
-  - Bezpieczeństwo danych: "dane.md"
+  - Krótko o badaniu: "index.md"
+  - Wstęp: "wstep.md"
+  - Automatyzacja pracy a potrzeba szkoleń: "automatyzacja.md"
+  - Wnioski: "wnioski.md"
+  - Metodologia badawcza i bazy danych: "metodologia.md"
+  - Uwagi: "uwagi.md"
+  - Referencje: "referencje.md"
   - Wyzwania etyczne: "etyka.md"
   - GenAI w badaniach: "praca_badania.md"
   - GenAI w dydaktyce: "dydaktyka.md"

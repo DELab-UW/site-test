@@ -2,43 +2,57 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px;"> Generatywna AI na UW - dobre praktyki </h1>
+<h1 style="margin-top: 50px;"> <b>Motywacje szkoleniowe w erze cyfrowej:</b> Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy </h1>
+
+<i>Autorzy:<br>
+Renata Włoch <br>
+Katarzyna Śledziewska<br>
+<br>
+Współpraca: <br>
+Satia Rożynek<br>
+Maciej Wilamowski<br>
+Weronika Łebkowska 
+</i>
+<br></br>
+
+<h2 style="margin-top: 50px;"> <b>Krótko o badaniu</b> </h2>
 
 <div style="text-align: justify; margin-bottom: 20px;"> 
-<b>W DELab UW transformacją cyfrową zajmujemy się na co dzień. </b>Jednym z jej najnowszych przejawów jest generatywna sztuczna inteligencja (generative AI, genAI) - technologia, której przyglądamy się z różnych perspektyw. Za nami pierwsze raporty dotyczące generatywnej AI i edukacji, a także dogłębna analiza kompetencji potrzebnych w dobie AI w małych i średnich przedsiębiorstwach. Badamy, jak pracownicy postrzegają zmiany technologiczne, oraz poszukujemy kreatywnych zastosowań generatywnej AI w procesach. Przeprowadziliśmy również kursy z zakresu generatywnej AI dla naukowców  oraz administracji Uniwersytetu Warszawskiego. Na seminariach DELabu chętnie dzielimy się pomysłami na nowe zastosowania modeli AI w naszej pracy.
+Podnoszenie, uzupełnianie lub zmiana kwalifikacji są uznawane za kluczowy sposób utrzymywania konkurencyjności na rynku pracy w kontekście ciągłej zmiany technologicznej. Jednak część pracowników nie wykazuje chęci do udziału w szkoleniach. 
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;"> 
-W tym raporcie prezentujemy zbiór <b> dobrych praktyk </b> opracowanych na podstawie przeglądu literatury, wytycznych UW oraz innych uniwersytetów, badania opinii społeczności UW, a także naszego zespołowego doświadczenia w korzystaniu z generatywnej AI. Omawiamy między innymi sposoby wykorzystania i cytowania generatywnej AI, wyzwania etyczne oraz te związane z prywatnością, a także podpowiadamy, skąd czerpać wiedzę o generatywnej AI i gdzie szukać wzorów promptów. Liczymy, że nasze rekomendacje, wraz z ich uzasadnieniem i praktycznymi wskazówkami, będą przydatne zarówno w pracy badawczej i dydaktycznej, jak i w procesie studiowania.
+W naszym badaniu szukaliśmy odpowiedzi na pytanie o przyczyny tej niechęci do podejmowania szkoleń korzystając z danych dotyczących pracowników w sześciu krajach Unii Europejskiej. Kluczowy wniosek z naszej analizy brzmi następująco: <b>szkolenia częściej podejmują osoby, które  podejmowały szkolenia w niedawnej przeszłości</b>. Innymi słowy, szkolenia podejmują osoby wykazujące nastawienie na uczenie się, a osoby nieaktywne pozostają nieaktywne. Aby zwiększyć udział w szkoleniach, organizacje powinny tworzyć takie środowisko pracy, które wspiera podnoszenie kwalifikacji, jednocześnie eliminując bariery indywidualne i strukturalne. 
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;"> 
-W raporcie publikujemy pierwsze wyniki badania przeprowadzonego przez DELab UW wśród społeczności akademickiej UW, w którym pytaliśmy <b>o opinie, sposoby wykorzystywania, obawy oraz oczekiwania wobec generatywnej AI</b>. Wyniki te są powiązane z konkretnymi dobrymi praktykami, abyście mogli zobaczyć, jak Wasze koleżanki, koledzy, studenci i wykładowcy postrzegają i wykorzystują generatywną AI. Raport ma formę interaktywnej strony internetowej, którą planujemy regularnie aktualizować w miarę rozwoju narzędzi generatywnej AI i zmieniających się regulacji.
+Struktura raportu jest następująca: w pierwszej kolejności przedstawiamy koncepcje teoretyczne akcentujące konieczność podnoszenia lub zmiany kwalifikacji w gospodarce cyfrowej. Skupiamy się zwłaszcza na wpływie automatyzacji na zmianę charakteru zadań wykonywanych w miejscu pracy. Następnie przedstawiamy wyniki analiz. 
 </div>
 
-<div style="text-align: justify"> 
-W raporcie stosujemy następujące oznaczenia dla poszczególnych grup społeczności akademickiej UW:
-</div>
-<img src="/genai_site/assets/res1.png" alt="icon photo" class=".custom-icon-image"> Badacze i badaczki
+W raporcie przyglądamy się czterem kluczowym pytaniom dotyczącym motywacji do udziału w szkoleniach:
 
-<img src="/genai_site/assets/prof1.png" alt="icon photo" class=".custom-icon-image"> Dydaktycy i dydaktyczki
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li style="text-align: justify; margin-bottom: 40px;">
+    <b>Jak automatyzacja wpływa na zadania zawodowe?</b> Czy osoby w zawodach zagrożonych automatyzacją częściej decydują się na szkolenia, aby zminimalizować ryzyko utraty pracy?<br></br>
+    Praca w zawodach podatnych na automatyzację zwiększa skłonność do uczestnictwa w szkoleniach, szczególnie w zakresie umiejętności miękkich, programowania i obsługi oprogramowania. Pracownicy, których zadania mogą być zastąpione przez technologię, częściej podejmują szkolenia, aby przeciwdziałać temu ryzyku.
 
-<img src="/genai_site/assets/stud1.png" alt="icon photo" class=".custom-icon-image"> Studenci i studentki
+  </li>
+  <li style="text-align: justify; margin-bottom: 40px;">
+    <b>Czy wiek i płeć mają znaczenie w podejmowaniu decyzji o uczestnictwie w szkoleniach?</b> Czy młodsze osoby i kobiety, bardziej narażone na skutki technologiczne, częściej angażują się w szkolenia?<br></br>
+    Wiek ma wpływ na decyzje szkoleniowe, choć jest on niewielki. Zainteresowanie szkoleniami maleje wraz z wiekiem, a szczególnie spada w przypadku programowania. Mężczyźni rzadziej deklarują brak chęci do szkoleń i częściej angażują się w programowanie, co wskazuje na pewne różnice między płciami.
 
-<h2> Opracowanie raportu </h2>
+  </li>
+  <li style="text-align: justify; margin-bottom: 40px;">
+    <b>Czy strach przed utratą pracy i automatyzacją wpływa na decyzje o uczestnictwie w szkoleniach?</b> Czy lęk przed utratą pracy motywuje do podnoszenia kwalifikacji?<br></br>
+    <b>Obawa</b> przed utratą pracy oraz strach przed automatyzacją motywują pracowników do zdobywania nowych umiejętności, szczególnie w zakresie specjalistycznych programów komputerowych i programowania. Brak lęku przed technologią może jednak zwiększać skłonność do uczestnictwa w szkoleniach, ponieważ technologie postrzegane są jako narzędzie wspomagające, a nie zagrożenie.
 
-<div style="text-align: justify; margin-bottom: 20px;"> 
-Raport został przygotowany przez zespół DELab UW. Tekst raportu został napisany przez Satię Rożynek, Michała Palińskiego, dr Joannę Mazur i Weronikę Łebkowską. Dr hab. Katarzyna Śledziewska, prof.ucz., oraz dr hab. Renata Włoch, prof.ucz., były odpowiedzialne za konceptualizację badania oraz zapewniły nadzór merytoryczny. 
-</div>
-<div style="text-align: justify; margin-bottom: 20px;"> 
-Serdeczne podziękowania za współpracę i cenne uwagi dotyczące badania kierujemy do wszystkich członków zespołu, a w szczególności dr Wojciecha Hardego, dr Marty Kołodziejskiej, dr Agaty Komendant-Brodowskiej, Moniki Kot, dr Weroniki Przecherskiej, dr Agnieszki Pugacewicz oraz dr hab. Magdaleny Słok-Wódkowskiej, prof.ucz. Dziękujemy również osobom, które poświęciły swój czas na udzielenie informacji zwrotnej  podczas pilotażu badania – Wasz wkład w rozwój kwestionariusza był nieoceniony.
-</div>
-<div style="text-align: justify; margin-bottom: 30px;"> 
-Szczególne podziękowania kierujemy do zespołu rektorskiego, na czele z Jego Magnificencją Rektorem Alojzym Nowakiem, za wsparcie podczas procesu badawczego, w którym uczestniczyła cała społeczność akademicka UW. Dziękujemy również Dziekanom jednostek za pomoc w rozpowszechnianiu ankiety wśród pracowników i studentów.
-</div>
-<div style="text-align: justify; margin-bottom: 20px;"> 
-I przede wszystkim ogromne podziękowania dla Was – naszych kolegów i koleżanek z UW oraz studentów i studentek, którzy poświęciliście swój czas, by odpowiedzieć na nasze pytania. To z myślą o Was zaczęliśmy dzielić się naszą wiedzą na temat zastosowań genAI, nagrywając nasze rozmowy (<a href="https://www.youtube.com/playlist?list=PLwDFdcFcnJLGERgIjGNF-V1IAPCApNJnl" target="_blank">link</a>). Wierzymy, że odpowiednie wykorzystanie genAI w naszej społeczności otworzy przed nami nowe możliwości, zarówno w pracy naukowej, jak i dydaktycznej.
-</div>
+  </li>    
+  <li style="text-align: justify; margin-bottom: 40px;">
+    <b>Wcześniejsze doświadczenia edukacyjne:</b> Jak wcześniejsze doświadczenia szkoleniowe i wykształcenie wpływają na dalszą gotowość do szkoleń?<br></br>
+    Osoby, które wcześniej uczestniczyły w szkoleniach, są bardziej skłonne do dalszego doskonalenia swoich umiejętności. Wykształcenie nie zawsze jest kluczowym czynnikiem, ale osoby z wykształceniem zawodowym wykazują mniejszą skłonność do uczestnictwa w szkoleniach związanych z technologią.
+  </li>
+</ul>
+
 
 <b>Raport jest dostępny także w formie PDF: </b> <a href="https://zenodo.org/records/13938497" target="_blank">link</a>
 <br></br>
