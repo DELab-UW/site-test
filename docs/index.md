@@ -1,42 +1,49 @@
-# Rekomendacje
+<div style="position: absolute; top: 0; left: 1.3em; width: 190px; height: 190px; overflow: hidden;">
+    <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
+</div>
 
-## Dla całego środowiska UW
+<h1 style="margin-top: 50px;"> Generatywna AI na UW - dobre praktyki </h1>
 
-- Zapoznaj się z wytycznymi UW dotyczącymi korzystania z narzędzi sztucznej inteligencji w procesie kształcenia, które zostały zawarte w <a href="https://dokumenty.uw.edu.pl/dziennik/DURK/Lists/Dziennik/Attachments/134/DURK.2023.98.UURK.98.pdf" target="_blank">Uchwale nr 98 Uniwersyteckiej Rady ds. Kształcenia</a> z dnia z dnia 8 grudnia 2023 r. (dalej nazywanej Uchwałą) → [więcej](wytyczne.md)
-- Sprawdź, czy Rada Dydaktyczna w Twojej dyscyplinie lub Twoja jednostka określa dodatkowe zasady korzystania z narzędzi generatywnej AI. → [więcej]()
+<div style="text-align: justify; margin-bottom: 20px;"> 
+<b>W DELab UW transformacją cyfrową zajmujemy się na co dzień. </b>Jednym z jej najnowszych przejawów jest generatywna sztuczna inteligencja (generative AI, genAI) - technologia, której przyglądamy się z różnych perspektyw. Za nami pierwsze raporty dotyczące generatywnej AI i edukacji, a także dogłębna analiza kompetencji potrzebnych w dobie AI w małych i średnich przedsiębiorstwach. Badamy, jak pracownicy postrzegają zmiany technologiczne, oraz poszukujemy kreatywnych zastosowań generatywnej AI w procesach. Przeprowadziliśmy również kursy z zakresu generatywnej AI dla naukowców  oraz administracji Uniwersytetu Warszawskiego. Na seminariach DELabu chętnie dzielimy się pomysłami na nowe zastosowania modeli AI w naszej pracy.
+</div>
 
-- Nie wprowadzaj żadnych danych poufnych a także danych osobowych (np. imię, nazwisko, numer indeksu, telefonu, pesel itp.) do narzędzi generatywnej AI. Pamiętaj, że dane i treści wytwarzane przez osoby studiujące (np. prace zaliczeniowe, egzaminy), jak i pracujące na UW (np. prezentacje z wykładów, artykuły czy materiały do nauki) objęte są ochroną. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.2d5hqv1oe4hq)
+<div style="text-align: justify; margin-bottom: 20px;"> 
+W tym raporcie prezentujemy zbiór <b> dobrych praktyk </b> opracowanych na podstawie przeglądu literatury, wytycznych UW oraz innych uniwersytetów, badania opinii społeczności UW, a także naszego zespołowego doświadczenia w korzystaniu z generatywnej AI. Omawiamy między innymi sposoby wykorzystania i cytowania generatywnej AI, wyzwania etyczne oraz te związane z prywatnością, a także podpowiadamy, skąd czerpać wiedzę o generatywnej AI i gdzie szukać wzorów promptów. Liczymy, że nasze rekomendacje, wraz z ich uzasadnieniem i praktycznymi wskazówkami, będą przydatne zarówno w pracy badawczej i dydaktycznej, jak i w procesie studiowania.
+</div>
 
-- Jeśli nie masz pewności w kwestii polityki prywatności i bezpieczeństwa danego narzędzia generatywnej AI, załóż, że wprowadzone oraz wygenerowane treści mogą zostać udostępnione dalej. →  [więcej]()
+<div style="text-align: justify; margin-bottom: 20px;"> 
+W raporcie publikujemy pierwsze wyniki badania przeprowadzonego przez DELab UW wśród społeczności akademickiej UW, w którym pytaliśmy <b>o opinie, sposoby wykorzystywania, obawy oraz oczekiwania wobec generatywnej AI</b>. Wyniki te są powiązane z konkretnymi dobrymi praktykami, abyście mogli zobaczyć, jak Wasze koleżanki, koledzy, studenci i wykładowcy postrzegają i wykorzystują generatywną AI. Raport ma formę interaktywnej strony internetowej, którą planujemy regularnie aktualizować w miarę rozwoju narzędzi generatywnej AI i zmieniających się regulacji.
+</div>
 
-- Poświęć chwilę na zastanowienie się nad etycznymi wyzwaniami związanymi z narzędziami generatywnej AI i ustosunkowanie się – w oparciu o dostępne materiały i argumenty – do tych wyzwań. → [więcej]()
+<div style="text-align: justify"> 
+W raporcie stosujemy następujące oznaczenia dla poszczególnych grup społeczności akademickiej UW:
+</div>
+<img src="/genai_site/assets/res1.png" alt="icon photo" class=".custom-icon-image"> Badacze i badaczki
 
-- Bądź na bieżąco z praktykami i zastosowaniami narzędzi generatywnej AI w swojej dziedzinie. Zapoznaj się z przykładowym użyciem narzędzi genAI w → [pracy badawczej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.xcfdgul8tfx9), → [dydaktycznej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.5yvs245bdvqg) i → [podczas studiowania](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.9e1k5yz7z9kz).
+<img src="/genai_site/assets/prof1.png" alt="icon photo" class=".custom-icon-image"> Dydaktycy i dydaktyczki
 
-- Śledź i zapisuj swoje sposoby korzystania z narzędzi generatywnej AI podczas studiowania i pracy na Uniwersytecie. Pamiętaj, że możesz być zobowiązany/a do zaraportowania takiego użycia.  → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.i2m7nday8l8d)
+<img src="/genai_site/assets/stud1.png" alt="icon photo" class=".custom-icon-image"> Studenci i studentki
 
-- Podchodź krytycznie i sprawdzaj treści produkowane z użyciem generatywnej AI. Pamiętaj, że jesteś w pełni odpowiedzialny/a za treści, które promujesz i publikujesz. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.o0hryh652ogk)
+<h2> Opracowanie raportu </h2>
 
-- Pamiętaj, że treści wygenerowane przez generatywną AI powinny być odpowiednio cytowane. Uważaj na problem “nieintencjonalnego plagiatu”. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.61bocp21ptvz)
+<div style="text-align: justify; margin-bottom: 20px;"> 
+Raport został przygotowany przez zespół DELab UW. Tekst raportu został napisany przez Satię Rożynek, Michała Palińskiego, dr Joannę Mazur i Weronikę Łebkowską. Dr hab. Katarzyna Śledziewska, prof.ucz., oraz dr hab. Renata Włoch, prof.ucz., były odpowiedzialne za konceptualizację badania oraz zapewniły nadzór merytoryczny. 
+</div>
+<div style="text-align: justify; margin-bottom: 20px;"> 
+Serdeczne podziękowania za współpracę i cenne uwagi dotyczące badania kierujemy do wszystkich członków zespołu, a w szczególności dr Wojciecha Hardego, dr Marty Kołodziejskiej, dr Agaty Komendant-Brodowskiej, Moniki Kot, dr Weroniki Przecherskiej, dr Agnieszki Pugacewicz oraz dr hab. Magdaleny Słok-Wódkowskiej, prof.ucz. Dziękujemy również osobom, które poświęciły swój czas na udzielenie informacji zwrotnej  podczas pilotażu badania – Wasz wkład w rozwój kwestionariusza był nieoceniony.
+</div>
+<div style="text-align: justify; margin-bottom: 30px;"> 
+Szczególne podziękowania kierujemy do zespołu rektorskiego, na czele z Jego Magnificencją Rektorem Alojzym Nowakiem, za wsparcie podczas procesu badawczego, w którym uczestniczyła cała społeczność akademicka UW. Dziękujemy również Dziekanom jednostek za pomoc w rozpowszechnianiu ankiety wśród pracowników i studentów.
+</div>
+<div style="text-align: justify; margin-bottom: 20px;"> 
+I przede wszystkim ogromne podziękowania dla Was – naszych kolegów i koleżanek z UW oraz studentów i studentek, którzy poświęciliście swój czas, by odpowiedzieć na nasze pytania. To z myślą o Was zaczęliśmy dzielić się naszą wiedzą na temat zastosowań genAI, nagrywając nasze rozmowy (<a href="https://www.youtube.com/playlist?list=PLwDFdcFcnJLGERgIjGNF-V1IAPCApNJnl" target="_blank">link</a>). Wierzymy, że odpowiednie wykorzystanie genAI w naszej społeczności otworzy przed nami nowe możliwości, zarówno w pracy naukowej, jak i dydaktycznej.
+</div>
 
-- Korzystanie z narzędzi generatywnej AI wymaga odpowiednich kompetencji. Zapoznaj się z materiałami przygotowanymi przez DELab UW i INNE OŚRODKI??? → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.lgsm2y6ly6qc)
-
-- Pamiętaj, że generatywna AI to technologia, która dopiero się rozwija, a przedstawione rekomendacje dotyczą jej możliwości na dzień XXXXX. Rekomendacje mogą ulec zmianie, zarówno w związku z regulacjami prawnymi, jak i rozszerzającymi się możliwościami technologii.
-
-## Dla dydaktyków i dydaktyczek
-
-- Przemyśl i przeformułuj swoje kursy tak, aby uwzględniały zmiany zachodzące w związku z możliwościami generatywnej AI.  → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.r23rp2jnxfsg)
-
-- Na początku każdego kursu jasno określ swoje oczekiwania dotyczące korzystania z generatywnej AI przez studentów/ki i uwzględnij je w sylabusie. Jeśli sam/a używasz generatywnej AI w nauczaniu, poinformuj o tym swoich studentów. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.r23rp2jnxfsg)
-
-- Zwróć uwagę na dostępność narzędzi generatywnej AI. Płatne wersje zazwyczaj generują “lepsze” treści, jednak nie każdy student może mieć do nich dostęp. Niektóre narzędzia generatywnej AI posiadają także ograniczenia wiekowe. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.r23rp2jnxfsg)
-
-- Pamiętaj, że rozwiązania wykrywające użycie generatywnej AI często podają błędną ocenę. Nie opieraj swojej oceny wyłącznie na wynikach przez nie wygenerowanych. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.k7ou8i3loh83)
-
-## Dla studentów i studentek
-
-- Zapoznaj się z zasadami korzystania generatywnej AI w ramach różnych etapów kursu: na zajęciach, podczas wykonywania prac domowych, zaliczeniowych i egzaminu. W przypadku jakichkolwiek niepewności – dopytaj osoby prowadzącej zajęcia. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.9e1k5yz7z9kz)
-
-- Jeżeli prowadzący/a nie podaje informacji o sposobach korzystania z narzędzi generatywnej AI w ramach kursu, postępuj zgodnie z [Uchwałą](https://dokumenty.uw.edu.pl/dziennik/DURK/Lists/Dziennik/Attachments/134/DURK.2023.98.UURK.98.pdf) → 
-
-- Pamiętaj, aby rozwijać swoje kompetencje związane z narzędziami generatywnej AI, ponieważ mogą być kluczowe na rynku pracy. → [więcej](https://docs.google.com/document/d/1AT2ocGuGsHhxnWGehLP9QVdYcwX0Fuuvkv6p-7MM0oE/edit#bookmark=id.lgsm2y6ly6qc)
+<b>Raport jest dostępny także w formie PDF: </b> <a href="https://zenodo.org/records/13938497" target="_blank">link</a>
+<br></br>
+<b>Cytowanie raportu:</b>
+<div style="text-align: justify; margin-bottom: 20px;"> 
+Śledziewska, K., Włoch, R., Rożynek, S., Paliński, M., Mazur, J., Łebkowska, W. (2024). <i>Generatywna AI na UW - dobre praktyki</i>. Uniwersytet Warszawski. DOI: <a href="https://zenodo.org/records/13938497" target="_blank">10.5281/zenodo.13938497</a>
+</div>
+← [wróć do dobrych praktyk](cel.md)
