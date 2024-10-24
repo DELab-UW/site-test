@@ -1,5 +1,5 @@
 site_name: Motywacje szkoleniowe w erze cyfrowej - Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy
- site_url: https://mydomain.org/mysite
+site_url: https://mydomain.org/mysite
 theme:
   name: material
   logo: assets/delab_icon.png
@@ -74,9 +74,3 @@ extra:
       link: https://x.com/DELabUW
     - icon: simple/facebook
       link: https://www.facebook.com/DELabUW
-    
-plugins:
-  - search
-  - charts
-
-
