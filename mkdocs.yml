@@ -40,17 +40,6 @@ nav:
   - Metodologia badawcza i bazy danych: "metodologia.md"
   - Uwagi: "uwagi.md"
   - Referencje: "referencje.md"
-  - Wyzwania etyczne: "etyka.md"
-  - GenAI w badaniach: "praca_badania.md"
-  - GenAI w dydaktyce: "dydaktyka.md"
-  - GenAI a zajęcia: "kursy.md"
-  - Detektory genAI: "detektory.md"
-  - GenAI w studiowaniu: "studiowanie.md"
-  - Weryfikacja genAI: "tresci.md"
-  - Monitorowanie użycia genAI: "sledzenie.md"
-  - Cytowanie genAI: "cytowanie.md"
-  - Rozwój kompetencji: "kompetencje.md"
-  - GenAI w tym raporcie: "raport.md"
 
 markdown_extensions:
   - toc:

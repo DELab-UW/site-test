@@ -54,10 +54,8 @@ W raporcie przyglądamy się czterem kluczowym pytaniom dotyczącym motywacji do
 </ul>
 
 
-<b>Raport jest dostępny także w formie PDF: </b> <a href="https://zenodo.org/records/13938497" target="_blank">link</a>
+<b>Raport jest dostępny także w formie PDF: </b> <a href="" target="_blank">link</a>
 <br></br>
 <b>Cytowanie raportu:</b>
-<div style="text-align: justify; margin-bottom: 20px;"> 
-Śledziewska, K., Włoch, R., Rożynek, S., Paliński, M., Mazur, J., Łebkowska, W. (2024). <i>Generatywna AI na UW - dobre praktyki</i>. Uniwersytet Warszawski. DOI: <a href="https://zenodo.org/records/13938497" target="_blank">10.5281/zenodo.13938497</a>
-</div>
-← [wróć do dobrych praktyk](cel.md)
+
+
