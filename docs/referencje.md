@@ -2,7 +2,7 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px;"> Referencje</h1>
+<h1 style="margin-top: 50px;"><b> Referencje</b></h1>
 
 <div style="text-align: justify; margin-bottom: 20px;">Acemoglu, Daron i David Autor. 2011. „Umiejętności, zadania i technologie: konsekwencje dla zatrudnienia i zarobków”. W Podręcznik ekonomii pracy, 4: 1043–1171. Elsevier. https://doi.org/10.1016/S0169-7218(11)02410-5.
 </div>

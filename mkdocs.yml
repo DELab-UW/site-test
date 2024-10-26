@@ -1,4 +1,4 @@
-site_name: Motywacje szkoleniowe w erze cyfrowej
+site_name: Motywacje szkoleniowe w gospodarce cyfrowej
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -27,7 +27,7 @@ theme:
     accent: blue
   
   font:
-    text: Calibri
+    text: Open Sans
 
 extra_css: 
   - extra.css

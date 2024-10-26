@@ -2,7 +2,7 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px;"> <b>Motywacje szkoleniowe w erze cyfrowej:</b> Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy </h1>
+<h1 style="margin-top: 50px; text-align: justify;"> <b>Motywacje szkoleniowe w gospodarce cyfrowej:</b> Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy </h1>
 
 <i>Autorzy:<br>
 Renata Włoch <br>

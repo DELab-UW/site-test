@@ -2,7 +2,7 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px;"> Metodologia badawcza i bazy danych </h1>
+<h1 style="margin-top: 50px;"><b> Metodologia badawcza i bazy danych </b></h1>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 Aby zweryfikować te hipotezy dotyczące czynników determinujących decyzje pracowników odnośnie szkoleń, do kwestionariusza Sondażu Środkowoeuropejskiego (realizowanego przez Uniwersytet Warszawski w latach 2021 i 2022) dodano specjalnie zaprojektowany moduł dotyczący wpływu technologii na rynek pracy (szczegóły w Aneksie). Celem badania było dokładne odzwierciedlenie dorosłej populacji (18+ lat) każdego kraju z uwzględnieniem płci, wieku i wielkości miejsca zamieszkania, wykorzystując losowy dobór próby kwotowej. Ograniczeniem badania była konieczność dostosowania liczby i formy pytań do innych modułów ankiety, co mogło wpłynąć na ich długość i treść. Dodatkowo, znane ograniczenia metody CAWI (Computer-Assisted Web Interviewing) są uznane w literaturze naukowej.

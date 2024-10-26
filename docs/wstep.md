@@ -2,9 +2,7 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px;"> Wstęp</h1>
-
-<img src="/genai_site/assets/icons_all2.png" alt="delab photo" class=".custom-icon-image">
+<h1 style="margin-top: 50px; margin-bottom: 50px;"> <b>Wstęp</b></h1>
 
 <div style="text-align: justify; margin-bottom: 20px;"> Zastępowanie niektórych zadań ludzi przez maszyny miało miejsce już w trakcie wcześniejszych rewolucji przemysłowych. W ramach czwartej rewolucji przemysłowej automatyzacja nabrała tempa dzięki gwałtownemu rozwojowi technologii, w tym sztucznej inteligencji. Inteligentne systemy przejmują rutynowe zadania, a także wspierają ludzi w bardziej złożonych obowiązkach, również tych wymagających pracy umysłowej.
 </div>
