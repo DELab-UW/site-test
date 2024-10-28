@@ -54,8 +54,8 @@ W raporcie przyglądamy się czterem kluczowym pytaniom dotyczącym motywacji do
 </ul>
 
 
-<b>Raport jest dostępny także w formie PDF: </b> <a href="" target="_blank">link</a>
+<b>Raport jest dostępny także w formie PDF: </b> <a href="https://zenodo.org/records/14000491" target="_blank">link</a>
 <br></br>
 <b>Cytowanie raportu:</b>
-
+Śledziewska, K., Włoch, R., Rożynek, S., Wilamowski, M., & Łebkowska, W. (2024). <i>Motywacje szkoleniowe w gospodarce cyfrowej: Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy.</i> Zenodo. <a>https://doi.org/10.5281/zenodo.14000491</a>
 
