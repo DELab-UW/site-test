@@ -2,18 +2,46 @@
     <img src="/genai_site/assets/logo2.png" alt="delab photo" style="width: 100%; height: 100%; object-fit: contain; display: block;">
 </div>
 
-<h1 style="margin-top: 50px; text-align: justify;"> <b>Motywacje szkoleniowe w gospodarce cyfrowej:</b> Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy </h1>
+<h1 style="margin-top: 50px;"> <b>Motywacje szkoleniowe w gospodarce cyfrowej:</b> Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy </h1>
 
-<i>Autorzy:<br>
-Renata Włoch <br>
-Katarzyna Śledziewska<br>
-<br>
-Współpraca: <br>
-Satia Rożynek<br>
-Maciej Wilamowski<br>
-Weronika Łebkowska 
-</i>
-<br></br>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <!-- Sekcja autorów -->
+    <div style="flex: 1; padding-right: 20px; padding-top: 40px;">
+        <span style="font-weight: bold; color: #3B5676; font-size: 0.9em;">Autorzy:</span><br>
+        Renata Włoch <br>
+        Katarzyna Śledziewska<br><br>
+        
+  <span style="font-weight: bold; color: #3B5676; font-size: 0.9em;">Współpraca:</span><br>
+        Satia Rożynek<br>
+        Maciej Wilamowski<br>
+        Weronika Łebkowska
+        
+        <!-- Cytowanie raportu -->
+  <div style="font-size: 0.85em; margin-top: 20px;">
+    <b style="font-weight: bold; color: #3B5676;">Cytowanie raportu:</b><br>
+    Śledziewska, K., Włoch, R., Rożynek, S., Wilamowski, M., & Łebkowska, W. (2024). <i>Motywacje szkoleniowe w gospodarce cyfrowej: Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy.</i> Uniwersytet Warszawski. Zenodo. <a href="https://doi.org/10.5281/zenodo.14000491" target="_blank" style="color: #3B5676; text-decoration: none;">https://doi.org/10.5281/zenodo.14000491</a>
+</div>
+    </div>
+    
+    <!-- Sekcja raportu z przyciskiem do PDF -->
+    <div style="flex: 1; text-align: center; padding-top: 20px;">
+        <span style="display: inline-block; margin-top: 10px; font-weight: bold; color: #3B5676; font-size: 0.9em; margin-bottom: 5px;">
+            Raport jest dostępny także w formie PDF
+        </span>
+        <br>
+        <span style="display: inline-block; font-size: 0.8em; color: #3B5676;">
+            (kliknij, aby pobrać raport)
+        </span>
+        <br>
+        <a href="https://zenodo.org/records/14000491" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="./assets/delab_cover2.png" alt="PDF Report Cover" 
+                 style="max-width: 100%; height: auto; max-height: 700px; border: 2px solid #3B5676; border-radius: 8px; margin-top: 10px; transition: transform 0.3s ease;">
+        </a>
+    </div>
+</div>
+
+
 
 <h2 style="margin-top: 50px;"> <b>Krótko o badaniu</b> </h2>
 
@@ -54,8 +82,6 @@ W raporcie przyglądamy się czterem kluczowym pytaniom dotyczącym motywacji do
 </ul>
 
 
-<b>Raport jest dostępny także w formie PDF: </b> <a href="https://zenodo.org/records/14000491" target="_blank">link</a>
 <br></br>
-<b>Cytowanie raportu:</b>
-Śledziewska, K., Włoch, R., Rożynek, S., Wilamowski, M., & Łebkowska, W. (2024). <i>Motywacje szkoleniowe w gospodarce cyfrowej: Przekwalifikowanie i podnoszenie kwalifikacji jako odpowiedź na wyzwania zmieniającego się rynku pracy.</i> Zenodo. <a>https://doi.org/10.5281/zenodo.14000491</a>
+
 
