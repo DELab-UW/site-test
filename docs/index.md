@@ -25,7 +25,7 @@
     </div>
     
     <!-- Sekcja raportu z przyciskiem do PDF -->
-    <div style="flex: 1; text-align: center; padding-top: 20px;">
+  <div style="flex: 1; text-align: center; padding-top: 20px;">
         <span style="display: inline-block; margin-top: 10px; font-weight: bold; color: #3B5676; font-size: 0.9em; margin-bottom: 5px;">
             Raport jest dostępny także w formie PDF
         </span>
