@@ -35,7 +35,8 @@ extra_css:
 nav:
   - Krótko o badaniu: "index.md"
   - Wstęp: "wstep.md"
-  - Automatyzacja pracy a potrzeba szkoleń: "automatyzacja.md"
+  - Automatyzacja pracy a potrzeba szkoleń: "szkolenia_potrzeba.md"
+  - Jakie czynniki kształtują podejmowanie decyzji o szkoleniach?: "automatyzacja.md"
   - Wnioski: "wnioski.md"
   - Metodologia badawcza i bazy danych: "metodologia.md"
   - Uwagi: "uwagi.md"

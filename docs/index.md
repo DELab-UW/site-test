@@ -35,7 +35,7 @@
         </span>
         <br>
         <a href="https://zenodo.org/records/14000491" target="_blank" style="text-decoration: none; color: inherit;">
-            <img src="./assets/delab_cover2.png" alt="PDF Report Cover" 
+            <img src="./assets/cov1.png" alt="PDF Report Cover" 
                  style="max-width: 100%; height: auto; max-height: 700px; border: 2px solid #3B5676; border-radius: 8px; margin-top: 10px; transition: transform 0.3s ease;">
         </a>
     </div>
